@@ -9,3 +9,18 @@ URLS To Test API In POSTMAN:
 * SignIn Http Method(Get): http://127.0.0.1:8000/signin/
 * SignOut Http Method(Post): http://127.0.0.1:8000/signout/
 * Profile Http Method(Post): http://127.0.0.1:8000/profile/
+
+Inputs For Following Endpoints:
+* For Sign-Up:
+{
+  "username": "testuser",
+  "password": "testpass",
+  "email": "test@example.com"
+}
+
+
+* For Sign-In:
+{
+    "username": "testuser",
+    "password": "testpass"
+}
