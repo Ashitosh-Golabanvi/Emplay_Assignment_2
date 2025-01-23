@@ -1,6 +1,6 @@
-Install dependencies: pip install django
-Run database migrations: python manage.py migrate
-Start the server: python manage.py runserver
+* Install dependencies: pip install django
+* Run database migrations: python manage.py migrate
+* Start the server: python manage.py runserver
 
 
 URLS To Test API In POSTMAN:
